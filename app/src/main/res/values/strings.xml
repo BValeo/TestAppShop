@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TestAppShop</string>
+    <string name="btn_buy">Купить</string>
+    <string name="login">Войти</string>
+    <string name="signin">Регистрация</string>
+    <string name="loginText">Логин</string>
+    <string name="passText">Пароль</string>
+    <string name="edit_text">Изменить</string>
+    <string name="delete_text">Удалить продукт</string>
+    <string name="name_label">Название</string>
+    <string name="image_label">Фото (URL)</string>
+    <string name="description_label">Описание</string>
+    <string name="price_label">Цена</string>
+    <string name="add_product">Добавить товар</string>
+    <string name="btn_order_label">Заказать</string>
+    <string name="fio_label">ФИО</string>
+    <string name="address_label">Адрес</string>
+    <string name="phone_label">Телефон</string>
+    <string name="email_label">Email</string>
+</resources>
